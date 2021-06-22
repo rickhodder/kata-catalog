@@ -24,6 +24,10 @@ Use this template to add your own code and/or video walkthrough, in date order, 
 
 - 25 May 2021 - [String Calculator by @ardalis](https://github.com/ardalis/StringCalculatorKataAttempts) - [YouTube Walkthrough](https://youtu.be/H96nnZuQO00)
 
+### TicTacToe 
+
+- 18 Jun 2021 - [TicTacToe by @rickhodder](https://www.codewars.com/kata/tic-tac-toe-checker) - [Source Code](https://github.com/rickhodder/TicTakToeKata)
+
 ## JavaScript
 
 - 7 Jul 2020 - [FizzBuzz Implementation](#) - [YouTube Walkthrough](#)
